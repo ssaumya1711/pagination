@@ -1,0 +1,18 @@
+table,th,td {
+  margin: 10%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+button{
+  background-color: white;  
+  border:1px solid grey;
+  text-align: center;
+  width: 4%;
+  color: rgba(0, 153, 255, 0.945);
+}
+.first,.prev,.next{
+  width: 6%;
+}
+button:hover{
+  background-color: rgb(236, 226, 226);
+}
